@@ -1,4 +1,4 @@
-Here's a clean, professional **README.md** file you can use for your **Password Generator** project made with Python on your GitHub profile:
+r **Password Generator** project made with Python 
 
 ---
 

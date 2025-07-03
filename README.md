@@ -1,4 +1,4 @@
-r **Password Generator** project made with Python 
+ **Password Generator** project made with Python 
 
 ---
 
